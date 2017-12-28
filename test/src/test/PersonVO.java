@@ -8,6 +8,7 @@ public class PersonVO {
 	private int no;
 	private int age;
 	private String gender;
+	private String se;
 	public String getGender() {
 		return gender;
 	}
