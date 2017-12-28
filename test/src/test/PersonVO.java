@@ -6,6 +6,7 @@ public class PersonVO {
 	private String tel;
 	private String phone;
 	private int no;
+	private int age;
 	public int getNo() {
 		return no;
 	}
